@@ -7,4 +7,4 @@ I'm wangzitiansky, a student from Beijing, China.
 -   🔭 I’m currently working on Python/MySQL/Computer NetWork
 -   🌱 I’m currently learning Linux/Nginx/Python Here is my notes [:clap:](https://github.com/wangzitiansky/Learning)
 -   :clap: coding [LeetCode](https://leetcode-cn.com/u/wangzitiansky/)
-- :no_entry_sign: reject 996
+- [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
